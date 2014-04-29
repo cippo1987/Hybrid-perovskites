@@ -15,7 +15,7 @@ N.B. For property calculations, always re-optimise a crystal structure using you
 Fork
 ------------
 
-This for has been generated shifting the original for a more useful view. The shift has been made in order to have a particular point of the 'A' cation in the center of the cell. The particular points are the following:
+This fork has been generated shifting the original for a more useful view. The shift has been made in order to have a particular point of the 'A' cation in the center of the cell. The particular points are the following:
 - MA 		= middle point of C-N bond
 - CH(NH2)2 	= C atom
 - NH4 		= N atom
