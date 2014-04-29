@@ -13,6 +13,8 @@ In the original files the coordinates of the "A" site cation were split between 
 - NH4 		= N atom
 - H		= H atom
 
+The spreadsheet used to perform the shift has been included in LibreOffice open format.
+
 Source
 ------------
 
