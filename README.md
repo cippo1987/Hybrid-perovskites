@@ -3,6 +3,16 @@ Hybrid-perovskites
 
 DFT optimised crystal structures of hybrid halide perovskites, including CH3NH3PbI3 (MAPI).
 
+Fork
+------------
+
+This fork has been generated from the original data available at: https://github.com/WMD-Bath/Hybrid-perovskites
+In the original files the coordinates of the "A" site cation were split between the periodic boundaries. In order to have a simpler visualization of the data, in this fork, all the coordinates have been shifted. The shift has been made in order to have a particular point of the 'A' cation in the center of the cell. The chosen points are the following:
+- MA 		= middle point of C-N bond
+- CH(NH2)2 	= C atom
+- NH4 		= N atom
+- H		= H atom
+
 Source
 ------------
 
@@ -11,15 +21,6 @@ For the ‘pseudo-cubic’ phases the starting point is a standard cubic perovsk
 The final structures have been obtained following an iterative procedure with small ion displacements (ISIF2 in VASP) using a Quasi-Newton algorithm and the PBEsol exchange-correlation functional within Density Functional Theory (DFT). 
 
 N.B. For property calculations, always re-optimise a crystal structure using your own calculation setup (and exchange-correlation functional). 
-
-Fork
-------------
-
-This fork has been generated shifting the original for a more useful view. The shift has been made in order to have a particular point of the 'A' cation in the center of the cell. The particular points are the following:
-- MA 		= middle point of C-N bond
-- CH(NH2)2 	= C atom
-- NH4 		= N atom
-- H		= H atom
 
 Used in
 ------------
