@@ -6,8 +6,10 @@ DFT optimised crystal structures of hybrid halide perovskites, including CH3NH3P
 Fork
 ------------
 
-This fork has been generated from the original data available at: https://github.com/WMD-Bath/Hybrid-perovskites
-In the original files the coordinates of the "A" site cation were split between the periodic boundaries. In order to have a simpler visualization of the data, in this fork, all the coordinates have been shifted. The shift has been made in order to have a particular point of the 'A' cation in the center of the cell. The chosen points are the following:
+This fork has been generated from the original data available at: https://github.com/WMD-Bath/Hybrid-perovskites 
+In the original repository the coordinates of the "A" site cation were split between the periodic boundaries.
+In this fork all the coordinates has been shifted in order to have a simpler visualization of the data. The shift has been made in order to have a particular point of the 'A' cation in the center of the cell. The chosen points are the following:
+
 - MA 		= middle point of C-N bond
 - CH(NH2)2 	= C atom
 - NH4 		= N atom
