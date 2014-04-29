@@ -12,11 +12,21 @@ The final structures have been obtained following an iterative procedure with sm
 
 N.B. For property calculations, always re-optimise a crystal structure using your own calculation setup (and exchange-correlation functional). 
 
+Fork
+------------
+
+This for has been generated shifting the original for a more useful view. The shift has been made in order to have a particular point of the 'A' cation in the center of the cell. The particular points are the following:
+- MA 		= middle point of C-N bond
+- CH(NH2)2 	= C atom
+- NH4 		= N atom
+- H		= H atom
+
 Used in
 ------------
 - "Structural and electronic properties of hybrid perovskites for high-efficiency thin-film photovoltaics from first-principles" APL Materials (2013) DOI: 10.1063/1.4824147
 
-- "Relativistic quasiparticle self-consistent electronic structure of hybrid halideperovskite photovoltaic absorbers” Physical Review B (2014) DOI: 10.1103/PhysRevB.89.155204
+- "Relativistic quasiparticle self-consistent electronic structure of hybrid halide
+perovskite photovoltaic absorbers” Physical Review B (2014) DOI: 10.1103/PhysRevB.89.155204
 
 - "Atomistic origins of high-performance in hybrid halide perovskite solar cells" Nano Letters (2014) DOI: 10.1021/nl500390f
 
